@@ -1,0 +1,19 @@
+{
+    "compileOnSave": false,
+    "compilerOptions": {
+        "baseUrl": "src",
+        "lib": [
+            "es5",
+            "es2015",
+            "es2016"
+        ],
+        "moduleResolution": "node",
+        "preserveConstEnums": true,
+        "sourceMap": true,
+        "sourceRoot": "src"
+    },
+
+    "files": [
+        "src/index.ts"
+    ]
+}
