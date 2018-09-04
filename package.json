@@ -1,0 +1,27 @@
+{
+    "name": "jwk-rsa-compute-primes",
+    "version": "1.0.0",
+    "description": "Compute p, q, dp, dq, and qi from e, d, and n for private JWKs without these parameters",
+    "main": "index.js",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MatthiasKunnen/jwk-rsa-compute-primes.git"
+    },
+    "keywords": [
+        "jwk",
+        "rsa",
+        "primes",
+        "p",
+        "q"
+    ],
+    "contributors": [
+        "Danny Coates",
+        "Matthias Kunnen <matthias.kunnen@gmail.com>"
+    ],
+    "license": "MPL-2.0",
+    "bugs": {
+        "url": "https://github.com/MatthiasKunnen/jwk-rsa-compute-primes/issues"
+    },
+    "homepage": "https://github.com/MatthiasKunnen/jwk-rsa-compute-primes#readme"
+}
