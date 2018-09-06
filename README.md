@@ -36,7 +36,7 @@ Will output:
     "e": "AQAB",
     "use": "sig",
     "kid": "s1",
-    "alg": "RS256,
+    "alg": "RS256",
     "n": "qj2UMQrfLVlTGfzvu707u9SsmWIe7gP61BqpdFsIZ9iwLO4uJLFUjR_T_9P...-8cQ",
     "p": "2AxTFKklIK077je1CLhzolRnUdHuYOtfo0s69ipDWhGYaCb8owofQDllFxh...HSE",
     "q": "ybi7Vp89X_KGw-kPc8nIlJzjSTCdF2mCy9mF-...aSDW3Wp5VE",
