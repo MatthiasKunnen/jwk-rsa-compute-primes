@@ -1,3 +1,6 @@
+[![npm version](https://img.shields.io/npm/v/jwk-rsa-compute-primes.svg?style=for-the-badge)
+](https://www.npmjs.com/package/jwk-rsa-compute-primes)
+
 # Compute primes from an existing RSA JWK
 
 This code is extracted from
