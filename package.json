@@ -1,6 +1,6 @@
 {
     "name": "jwk-rsa-compute-primes",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Compute p, q, dp, dq, and qi from e, d, and n for private JWKs without these parameters",
     "es2015": "index.js",
     "main": "cjs/index.js",
